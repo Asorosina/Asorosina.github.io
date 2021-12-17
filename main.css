@@ -22,7 +22,7 @@ body{
     padding: 8px;
 }
 .font2{
-    font-size: 30px;
+    font-size: 10px;
     padding: 8px;
 }
 
@@ -119,8 +119,9 @@ footer div{
         height: auto;
        
     }
-    .font{
-        
-    }
+    .font2{
+    font-size: 5px;
+    
+}
    
 }
